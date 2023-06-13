@@ -14,6 +14,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "extra": {
+      "openaiApiKey": "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"
+    },
     "ios": {
       "supportsTablet": true
     },
